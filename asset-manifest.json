@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/CloneWhatsappWeb-React-TypeScript/static/css/main.3446be86.chunk.css",
+    "main.js": "/CloneWhatsappWeb-React-TypeScript/static/js/main.ce344169.chunk.js",
+    "main.js.map": "/CloneWhatsappWeb-React-TypeScript/static/js/main.ce344169.chunk.js.map",
+    "runtime-main.js": "/CloneWhatsappWeb-React-TypeScript/static/js/runtime-main.d063634a.js",
+    "runtime-main.js.map": "/CloneWhatsappWeb-React-TypeScript/static/js/runtime-main.d063634a.js.map",
+    "static/js/2.ec9f44fc.chunk.js": "/CloneWhatsappWeb-React-TypeScript/static/js/2.ec9f44fc.chunk.js",
+    "static/js/2.ec9f44fc.chunk.js.map": "/CloneWhatsappWeb-React-TypeScript/static/js/2.ec9f44fc.chunk.js.map",
+    "index.html": "/CloneWhatsappWeb-React-TypeScript/index.html",
+    "static/css/main.3446be86.chunk.css.map": "/CloneWhatsappWeb-React-TypeScript/static/css/main.3446be86.chunk.css.map",
+    "static/js/2.ec9f44fc.chunk.js.LICENSE.txt": "/CloneWhatsappWeb-React-TypeScript/static/js/2.ec9f44fc.chunk.js.LICENSE.txt",
+    "static/media/background-chat.7fff1c4f.png": "/CloneWhatsappWeb-React-TypeScript/static/media/background-chat.7fff1c4f.png",
+    "static/media/imgChatNone.6cc48a1e.jpg": "/CloneWhatsappWeb-React-TypeScript/static/media/imgChatNone.6cc48a1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d063634a.js",
+    "static/js/2.ec9f44fc.chunk.js",
+    "static/css/main.3446be86.chunk.css",
+    "static/js/main.ce344169.chunk.js"
+  ]
+}
