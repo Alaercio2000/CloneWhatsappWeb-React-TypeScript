@@ -1,0 +1,94 @@
+.backColor{
+    width: 100%;
+    max-width: 1550px;
+    height: 100%;
+    position: fixed;
+    background-color: #e5ddd5;
+    z-index: -2;
+}
+
+.backImgChat{
+    width: 100%;
+    max-width: 1550px;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+    left: 0;
+    top: 0;
+
+    opacity: .06;
+
+    background-position: 50% 50%;
+    background-repeat: repeat;
+    background-size: contain;
+    transform-origin: center;
+}
+
+#mainId{
+    overflow: hidden;
+}
+
+.listMessages{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 50px;
+
+    overflow-x: auto;
+}
+
+.listMessages::-webkit-scrollbar {
+    width: 6px;
+    background: #fff;
+}
+
+.listMessages::-webkit-scrollbar-thumb {
+    width: 6px;
+    background: rgba(0,0,0,.2);
+}
+
+.notSend{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.send{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.areaMsgNotSend{
+    background-color: #FFF;
+    border-radius: 8px;
+    padding: 10px 10px 10px 10px;
+    max-width: 510px;
+    margin-top: 10px;
+}
+
+.areaMsgSend{
+    background-color: #dbf4c6;
+    border-radius: 8px;
+    padding: 10px 10px 10px 10px;
+    max-width: 510px;
+    margin-top: 10px;
+}
+
+.caretNotSend{
+    margin-top: -1.5px;
+    margin-right: -16px;
+    font-size: 30px;
+    color: #FFF;
+}
+
+.caretSend{
+    margin-top: -1.5px;
+    margin-left: -16px;
+    font-size: 30px;
+    color: #dbf4c6;
+}
+
+.textFormat {
+    width: 100%;
+    word-wrap: break-word;
+}
